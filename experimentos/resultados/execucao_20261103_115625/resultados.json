@@ -1,0 +1,20 @@
+[
+  {
+    "model": "tiny",
+    "device": "cpu",
+    "compute_type": "int8",
+    "audio_duration_seconds": 53.29125,
+    "model_load_seconds": 9.085889000001771,
+    "transcription_seconds": 6.134235600000466,
+    "rtf": 0.11510774470481487,
+    "processing_speed": 8.687512752199467,
+    "language_detected": "en",
+    "language_probability": 0.9843046069145203,
+    "segment_count": 9,
+    "word_count": 123,
+    "mean_word_probability": 0.8087070803422995,
+    "transcript": "people all over the world are realizing that these programs don't make us more safe they hurt our economy, they hurt our country, they limit our ability to speak and think and live and be creative to have more relationships to associate with really. And they're going, this doesn't make us more safe that makes us less safe, but this is a goodness. Now coming into conflict with our own government and there's a far pride between legal programs legitimate society, legitimate law enforcement, where it's targeted, it's based on reasonable suspicion and individualized suspicion and a warranted action and sort of drag net mass surveillance that puts entire populations under sort of an eye that sees everything even when it's not needed.",
+    "wer": 0.15966386554621848,
+    "cer": 0.07050359712230216
+  }
+]

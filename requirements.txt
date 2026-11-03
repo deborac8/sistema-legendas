@@ -1,0 +1,21 @@
+﻿# Interface
+streamlit==1.66.1
+requests==2.34.2
+
+# Backend
+fastapi>=0.115
+uvicorn==0.54.0
+python-multipart>=0.0.9
+
+# Processamento de audio e reconhecimento de fala
+numpy==2.5.4
+soundfile==0.14.0
+faster-whisper==1.2.1
+pysubs2==1.9.1
+
+# Avaliacao experimental
+jiwer==4.0.0
+matplotlib==3.11.2
+
+# Testes
+pytest==9.2.0

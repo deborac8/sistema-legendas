@@ -1,0 +1,45 @@
+﻿# Ambiente virtual
+.venv/
+venv/
+
+# Cache e arquivos Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Configuracoes locais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporarios
+storage/uploads/*
+storage/temporary/*
+storage/processed/*
+storage/results/*
+storage/evaluation/audio/*
+storage/evaluation/metadata/*
+
+# Modelos baixados na raiz
+/models/
+.cache/
+
+# Arquivos de backup e rascunhos
+*.bak
+*.old
+transcriber_restante.txt
+
+# Resultados locais de distribuicao
+dist/
+build/
+*.spec
+
+# Sistema operacional e editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Pacote ZIP enviado separadamente ao professor
+sistema_legendas_entrega.zip
